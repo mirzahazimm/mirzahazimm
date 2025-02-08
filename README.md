@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Mirza Hazzim. Based in Kuala Lumpur, MY 📍
+## I'm Mirza Hazim. Based in Kuala Lumpur, MY 📍
 
 Currently working on building data projects to start my career in data engineering.
 
